@@ -1,0 +1,9 @@
+exames/
+saida/
+*.dcm
+*.stl
+*.zip
+*.pdf
+*.png
+__pycache__/
+.venv/

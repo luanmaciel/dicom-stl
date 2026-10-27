@@ -1,0 +1,6 @@
+numpy
+pydicom
+SimpleITK
+scikit-image
+trimesh
+fast-simplification
